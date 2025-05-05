@@ -1,7 +1,5 @@
-import { CircleCheck } from "lucide-react";
 import AppDownloadButtons from "../ui/app-download-buttons";
 import Section from "../ui/section";
-import MobileAppPreview from "../ui/mobile-app-mockup";
 import appImage from "@/public/app.png";
 import Image from "next/image";
 export default function DownloadSection() {
